@@ -64,5 +64,151 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-apiacre-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://apiacre.com/
+API Acre is a marketplace offering 74 pay‑per‑call APIs for agents, settled in USDC on Base and Solana via the x402 protocol. It provides a wide range of services including web metadata extraction, blockchain status checks, data conversion, weather forecasting, geocoding, product pricing, and more. Users can try live API calls for free and pay only for successful requests, with transparent pricing displayed before each transaction.
+
+**Areas:** Company · Payments · Blockchain · Web3 · API-Marketplace · USDC
+
+## apiacre-com on APIs.io
+
+Everything profiled for apiacre-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/apiacre-com/](https://apis.io/providers/apiacre-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (14)
+
+- [apiacre-com Advertising API](https://apis.io/apis/apiacre-com/apiacre-com-advertising-api/) — The advertising API from apiacre-com — 1 operation(s) for advertising.
+- [apiacre-com Catalog API](https://apis.io/apis/apiacre-com/apiacre-com-catalog-api/) — The Catalog API from apiacre-com — 1 operation(s) for catalog.
+- [apiacre-com Commerce API](https://apis.io/apis/apiacre-com/apiacre-com-commerce-api/) — The commerce API from apiacre-com — 1 operation(s) for commerce.
+- [apiacre-com Crypto API](https://apis.io/apis/apiacre-com/apiacre-com-crypto-api/) — The crypto API from apiacre-com — 13 operation(s) for crypto.
+- [apiacre-com Data API](https://apis.io/apis/apiacre-com/apiacre-com-data-api/) — The data API from apiacre-com — 18 operation(s) for data.
+- [apiacre-com Developer API](https://apis.io/apis/apiacre-com/apiacre-com-developer-api/) — The developer API from apiacre-com — 11 operation(s) for developer.
+- [apiacre-com Discovery API](https://apis.io/apis/apiacre-com/apiacre-com-discovery-api/) — The discovery API from apiacre-com — 2 operation(s) for discovery.
+- [apiacre-com Document API](https://apis.io/apis/apiacre-com/apiacre-com-document-api/) — The document API from apiacre-com — 4 operation(s) for document.
+- [apiacre-com Health API](https://apis.io/apis/apiacre-com/apiacre-com-health-api/) — The Health API from apiacre-com — 1 operation(s) for health.
+- [apiacre-com Llms.txt API](https://apis.io/apis/apiacre-com/apiacre-com-llms-txt-api/) — The Llms.txt API from apiacre-com — 1 operation(s) for llms.txt.
+- [apiacre-com Pixel Acre API](https://apis.io/apis/apiacre-com/apiacre-com-pixel-acre-api/) — The Pixel Acre API from apiacre-com — 4 operation(s) for pixel acre.
+- [apiacre-com Research API](https://apis.io/apis/apiacre-com/apiacre-com-research-api/) — The research API from apiacre-com — 14 operation(s) for research.
+- [apiacre-com Web API](https://apis.io/apis/apiacre-com/apiacre-com-web-api/) — The web API from apiacre-com — 13 operation(s) for web.
+- [apiacre-com .well Known API](https://apis.io/apis/apiacre-com/apiacre-com-well-known-api/) — The .well Known API from apiacre-com — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Apiacre Com Agentic Access](https://apis.io/agentic-access/apiacre-com/apiacre-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BaseEventLogsInput](https://apis.io/schemas/apiacre-com/apiacre-com-base-event-logs-input/)
+- [EcbFxReferenceInput](https://apis.io/schemas/apiacre-com/apiacre-com-ecb-fx-reference-input/)
+- [FederalRegisterSearchInput](https://apis.io/schemas/apiacre-com/apiacre-com-federal-register-search-input/)
+- [SecCompanyEvidenceInput](https://apis.io/schemas/apiacre-com/apiacre-com-sec-company-evidence-input/)
+- [UsContractSearchInput](https://apis.io/schemas/apiacre-com/apiacre-com-us-contract-search-input/)
+- [UsWeatherForecastInput](https://apis.io/schemas/apiacre-com/apiacre-com-us-weather-forecast-input/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Apiacre Com Context](https://apis.io/jsonld/apiacre-com/apiacre-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [apiacre-com API Rules](https://apis.io/rules/apiacre-com/apiacre-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Apiacre Com Authentication](https://apis.io/security/apiacre-com/apiacre-com-authentication/)
+- [Apiacre Com Domain Security](https://apis.io/security/apiacre-com/apiacre-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Apiacre Com Scopes](https://apis.io/scopes/apiacre-com/apiacre-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Apiacre Com Plans Pricing](https://apis.io/plans/apiacre-com/apiacre-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Apiacre Com Rate Limits](https://apis.io/rate-limits/apiacre-com/apiacre-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://apiacre.com/)
+- [Documentation](https://apiacre.com/buyers)
+- [Getting started](https://apiacre.com/pricing)
+- [API reference](https://apiacre.com/docs)
+- [Pricing](https://apiacre.com/pricing)
+- [GitHub](https://github.com/APIAcre/apiacre)
+
+## API Evangelist rating
+
+**Kin Score 40.0** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 56.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 35.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 41.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 18.8** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/apiacre-com/](https://apis.io/providers/apiacre-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for apiacre-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/apiacre-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
